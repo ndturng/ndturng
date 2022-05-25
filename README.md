@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ndturng
-- 🌱 I’m currently learning Python and Deep Learning
+- 🌱 I’m currently learning Python and ML
 - 🌱 Every Day in Every Way I'm Getting Better and Better
